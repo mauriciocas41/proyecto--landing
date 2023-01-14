@@ -32,7 +32,9 @@ li:hover {
   color:#fff;
   transition:  150ms ease;
   cursor:grab;
- 
+}
+li  a {
+  color: #000;
 }
 .nav-list{
     display: flex;
