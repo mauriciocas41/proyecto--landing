@@ -35,9 +35,9 @@ li:hover {
 }
 li  a {
   color: rgba(0, 0, 0, 0.763);
-  box-shadow: 3px 1px 4px 1px ;
+  box-shadow: 0.0px 0.9px 0.5px 0.05px ;
   padding: 1.5px;
-  gap: 50px;
+  margin: 5px;
   border-radius: 6px;
   text-decoration: none;
 }
