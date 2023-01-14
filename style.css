@@ -72,14 +72,14 @@ li  a {
       .hero-buttons a{
         border: 2px solid;
         border-radius: 30px;
-        color: rgb(7, 7, 7);
+        color: rgb(9, 0, 0);
         margin-top: 250px;
         padding: 10px;
         text-decoration: none;
       }
       .button-dark:hover{
         transition: all 150ms ease;
-        background-color: rgba(0, 0, 0, 0.695);
+        background-color: rgba(28, 7, 7, 0.695);
       }
       .hero p{
         font-style: oblique;
